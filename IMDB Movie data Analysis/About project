@@ -1,0 +1,24 @@
+Analysing the IMDb movie dataset using Power BI can provide interactive and visually appealing dashboards to explore and gain insights from the data. Here's an overview of how I have perform on IMDb movie dataset analysis using Power BI:
+The Objective 
+🔍 The dashboard showcases key metrics like movie ratings, box office performance, and genres, performance of directors and actors. It also incorporates interactive visualizations, enabling users to slice and dice the data to gain deeper insights. 📊💡
+·    My motivation to undertake this project was to discover intuitive insights into the movie industry which we all love and build a functioning tool that can help decision makers in the industry.
+
+The Question
+·    This dashboard could be useful for anyone who would like to know what kind of different features make the movie more profitable. It could be an investor who would like to invest money into the movie industry or any movie-making company who would like to determine what make their competitor successful.
+ 
+ 
+Insights and Recommendations
+ 
+ 
+·    Sum of gross Revenue is generated is more in USA $166bn
+·    Adventure|Drama|Action genre has the highest gross revenue of $119bn out of total revenue of $185bn
+·    Biography genre has highest average rating of 7.15 overall years 
+·    Steven Spielberg is the most successful director, having recorded a total of $4bn gross revenue with average rating of 7.58
+·    Movies with the highest gross revenue do not necessarily have highest voting.
+·    Movies that fall under the genre of Drama, Comedy, and Action are the most popular.
+·    The Ratio of Budget to Revenue generated is highest of Movie Dark Knight Rises with average rating of 8.59 with Gross revenue of $448M.
+·  Johhny Deep has the most outstanding performance amongst other Actors with a total of $3bn gross revenue
+·    As per MPAA (motion pictures of America ) top 3 ratings are (R, PG-13 & PG) which means
+R – Restricted – UNDER 17 requires accompanying parent or adult guardian.
+PG - Parental guidance suggested – Some material may not be suitable for pre-teenagers 
+PG-13 - Parents strongly cautioned – Some material may be inappropriate for children under 13
